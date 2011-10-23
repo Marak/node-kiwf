@@ -20,10 +20,12 @@ require('kiwf')(options);
 
 ## options
 
- `maxMemory` - represents maximum memory process can handle before exiting 
+ `maxMemory` - represents maximum memory process can handle before exiting
+ 
  *note: a negative value will indicate infinite memory*
  
  `maxUptime` - determines how long the application will stay up for
+ 
  *note: a negative value will indicate infinite maxUptime*
 
 ## MIT
