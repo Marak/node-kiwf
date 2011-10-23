@@ -2,7 +2,7 @@
 
 *kill it with fire*
 
-##in-process node.js process kill switch
+##in-process node.js process kill-switch
 
 ##forces node processes to crash based on certain restrictions like memory usage or uptime.
 
